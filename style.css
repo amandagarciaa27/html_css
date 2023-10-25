@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    color: pink;
+}
+
+.h {
+    background-color: green;
+    color: red;
+    text-align: center;
+}
